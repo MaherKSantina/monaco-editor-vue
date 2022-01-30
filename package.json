@@ -1,6 +1,6 @@
 {
-  "name": "monaco-editor-vue",
-  "version": "1.0.10",
+  "name": "monaco-editor-maher",
+  "version": "0.1.0",
   "description": "Monaco Editor for Vue.",
   "main": "dist/index.js",
   "module": "dist/index",
@@ -26,7 +26,7 @@
     "eslint-plugin-vue": "^6.1.2"
   },
   "dependencies": {
-    "monaco-editor": "^0.19.3",
+    "monaco-editor": "^0.31.0",
     "vue": "^2.6.11"
   },
   "keywords": [
